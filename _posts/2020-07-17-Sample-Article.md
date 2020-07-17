@@ -2,7 +2,7 @@
   layout              : article
   aside               :
     toc               : true
-  title               : Firemax13 is creating a new article
+  title               : firemax13 is creating a new article
   tags                : 
     - Newbie
     - Creator
@@ -18,3 +18,4 @@ Since my brain is wanting to make some website without spending any currency, I 
 # B. MOVING UP!
 ## Experience
 My experience about computer codes is really low and not good, but I tried to study them all till I understand their function and their movement.
+
