@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-text-theme"
-  spec.version       = "2.2.5"
+  spec.version       = "2.2.6"
   spec.authors       = ["Tian Qi"]
   spec.email         = ["kitian616@outlook.com"]
 
@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jemoji", "~> 0.8"
 
   spec.add_development_dependency "bundler"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", "~> 12.3.3"
 end
