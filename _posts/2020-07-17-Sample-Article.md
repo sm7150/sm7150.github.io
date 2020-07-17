@@ -2,7 +2,7 @@
   layout              : article
   aside               :
     toc               : true
-  title               : firemax13 is creating a new article
+  title               : First Time to make Article!
   tags                : 
     - Newbie
     - Creator
