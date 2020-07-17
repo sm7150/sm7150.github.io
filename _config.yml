@@ -36,10 +36,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : person # "person" (default), "organization"
   name      : Johncarlo Capin Ababa
-  url       :
+  url       : https://github.com/firemax13/firemax13.github.io
   avatar    : /assets/images/authors/firemax13.jpg
   bio       : I am a noob man
-  email     : johndecaloy13@gmail.com
+  email     : mydadisbrave2@gmail.com
   facebook  : firemax13 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
