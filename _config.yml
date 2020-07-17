@@ -36,7 +36,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : person # "person" (default), "organization"
   name      : Johncarlo Capin Ababa
-  url       : https://github.com/firemax13/firemax13.github.io
+  url       : # I'll add it soon
   avatar    : /assets/images/authors/firemax13.jpg
   bio       : I am a noob man
   email     : mydadisbrave2@gmail.com
